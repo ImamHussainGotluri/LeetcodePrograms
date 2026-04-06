@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0001-two-sum) |
+| [1584-min-cost-to-connect-all-points](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1584-min-cost-to-connect-all-points) |
 ## Hash Table
 |  |
 | ------- |
@@ -21,4 +22,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0089-gray-code) |
+## Union-Find
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1584-min-cost-to-connect-all-points) |
+## Graph Theory
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1584-min-cost-to-connect-all-points) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
