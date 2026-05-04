@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0001-two-sum) |
+| [0048-rotate-image](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0048-rotate-image) |
 | [0396-rotate-function](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0396-rotate-function) |
 | [1584-min-cost-to-connect-all-points](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1584-min-cost-to-connect-all-points) |
 ## Hash Table
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0048-rotate-image) |
 | [0089-gray-code](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0089-gray-code) |
 | [0396-rotate-function](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0788-rotated-digits) |
@@ -51,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0796-rotate-string) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
