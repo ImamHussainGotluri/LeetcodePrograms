@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0048-rotate-image) |
 | [0396-rotate-function](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0396-rotate-function) |
 | [1584-min-cost-to-connect-all-points](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1584-min-cost-to-connect-all-points) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1861-rotating-the-box](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1861-rotating-the-box) |
 | [1914-cyclically-rotating-a-grid](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1914-cyclically-rotating-a-grid) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2553-separate-the-digits-in-an-array) |
@@ -97,4 +98,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0595-big-countries) |
 | [1757-recyclable-and-low-fat-products](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1757-recyclable-and-low-fat-products) |
+## Greedy
+|  |
+| ------- |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+## Sorting
+|  |
+| ------- |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 <!---LeetCode Topics End-->
