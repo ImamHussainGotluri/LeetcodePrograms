@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0881-boats-to-save-people) |
 | [1584-min-cost-to-connect-all-points](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1584-min-cost-to-connect-all-points) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1861-rotating-the-box](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1861-rotating-the-box) |
 | [1914-cyclically-rotating-a-grid](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1914-cyclically-rotating-a-grid) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2553-separate-the-digits-in-an-array) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0001-two-sum) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Math
 |  |
@@ -112,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0881-boats-to-save-people](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0881-boats-to-save-people) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+## Prefix Sum
+|  |
+| ------- |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1674-minimum-moves-to-make-array-complementary) |
 <!---LeetCode Topics End-->
