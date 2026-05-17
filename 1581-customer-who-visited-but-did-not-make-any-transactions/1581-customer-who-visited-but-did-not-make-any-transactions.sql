@@ -6,4 +6,3 @@ left join Transactions as trans
 on vs.visit_id = trans.visit_id
 where trans.transaction_id is null
 group by customer_id
-order by count_no_trans DESC
