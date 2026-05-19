@@ -4,12 +4,9 @@ class Solution {
         int n2=nums2.length;
         int i=0;
         int j=0;
-        int min=Integer.MAX_VALUE;
         while(i<n1 && j<n2){
             if(nums1[i]==nums2[j]){
-                min=Math.min(min,nums1[i]);
-                i++;
-                j++;
+                return nums1[i];
             }
             else if(nums1[i]<nums2[j]){
                 i++;
@@ -18,6 +15,6 @@ class Solution {
                 j++;
             }
         }
-        return min==Integer.MAX_VALUE?-1:min;
+        return -1;
     }
 }
