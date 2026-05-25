@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0796-rotate-string](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0796-rotate-string) |
+| [1871-jump-game-vii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1871-jump-game-vii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Dynamic Programming
 |  |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0518-coin-change-ii) |
 | [0788-rotated-digits](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0788-rotated-digits) |
 | [1340-jump-game-v](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1340-jump-game-v) |
+| [1871-jump-game-vii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1871-jump-game-vii) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3660-jump-game-ix](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/3660-jump-game-ix) |
 ## String Matching
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1871-jump-game-vii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1871-jump-game-vii) |
 ## Binary Search
 |  |
 | ------- |
@@ -205,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0070-climbing-stairs) |
+## Sliding Window
+|  |
+| ------- |
+| [1871-jump-game-vii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1871-jump-game-vii) |
 <!---LeetCode Topics End-->
