@@ -4,9 +4,9 @@ class Solution {
         int n=wordsQuery.length;
         int min=Integer.MAX_VALUE;
         int idx=-1;
+
         for(int i=0;i<wordsContainer.length;i++){
-            StringBuilder sb=new StringBuilder(wordsContainer[i]);
-            String word=sb.reverse().toString();
+            String word=wordsContainer[i];
             if(word.length()<min){
                 min=word.length();
                 idx=i;
@@ -16,17 +16,17 @@ class Solution {
 
         int arr[]=new int[n];
         for(int i=0;i<n;i++){
-            StringBuilder sb=new StringBuilder(wordsQuery[i]);
-            String wordQry=sb.reverse().toString();
+            String wordQry=wordsQuery[i];
             int temp=Search(wordQry);
             arr[i]=temp==-1?idx:temp;
         }
         return arr;
+        
     }
     public void insert(String word,int currIdx,String[] wordsContainer){
         TrieNode node=root;
-        for(char ch:word.toCharArray()){
-            int idx=ch-'a';
+        for(int i=word.length()-1;i>=0;i--){
+            int idx=word.charAt(i)-'a';
             if(node.children[idx]==null){
                 node.children[idx]=new TrieNode();
             }
@@ -42,8 +42,8 @@ class Solution {
     }
     public int Search(String word){
         TrieNode node=root;
-        for(char ch:word.toCharArray()){
-            int idx=ch-'a';
+        for(int i=word.length()-1;i>=0;i--){
+            int idx=word.charAt(i)-'a';
             if(node.children[idx]==null){
                 return node.bestIndex;
             }
