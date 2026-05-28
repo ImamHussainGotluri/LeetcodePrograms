@@ -6,4 +6,4 @@ select reports_to as employee_id,
 from Employees e
 where reports_to is not null
 group by reports_to
-order by reports_to ASC;
+order by employee_id ASC;
