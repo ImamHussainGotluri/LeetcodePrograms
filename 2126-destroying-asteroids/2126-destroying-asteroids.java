@@ -4,12 +4,10 @@ class Solution {
         int n=asteroids.length;
         long wt=mass;
         for(int i=0;i<n;i++){
-            if(wt>=asteroids[i]){
-                wt+=asteroids[i];
-            }
-            else{
+            if(asteroids[i]>wt){
                 return false;
             }
+            wt+=asteroids[i];
         }
         return true;
     }
