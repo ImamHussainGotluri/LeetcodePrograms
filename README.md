@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0788-rotated-digits) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1871-jump-game-vii) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3660-jump-game-ix](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/3660-jump-game-ix) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## String Matching
 |  |
 | ------- |
@@ -262,4 +264,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0215-kth-largest-element-in-an-array) |
+## Enumeration
+|  |
+| ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 <!---LeetCode Topics End-->
