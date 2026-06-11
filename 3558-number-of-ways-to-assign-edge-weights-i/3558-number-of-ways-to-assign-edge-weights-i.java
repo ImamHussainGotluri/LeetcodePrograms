@@ -35,11 +35,11 @@ class Solution {
     public int pow(long base,int exp){
         long ans=1;
         while(exp>0){
-            if(exp%2==1){
+            if((exp&1)==1){
                 ans=(ans*base)%mod;
             }
             base=(base*base)%mod;
-            exp/=2;
+            exp>>=1;
         }
         return (int)ans;
     }
