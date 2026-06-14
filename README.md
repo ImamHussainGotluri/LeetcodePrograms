@@ -140,12 +140,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0061-rotate-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0061-rotate-list) |
 | [0881-boats-to-save-people](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0881-boats-to-save-people) |
 | [1861-rotating-the-box](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1861-rotating-the-box) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -318,4 +320,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0226-invert-binary-tree](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0226-invert-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2196-create-binary-tree-from-descriptions) |
+## Stack
+|  |
+| ------- |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->
