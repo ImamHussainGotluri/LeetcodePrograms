@@ -21,7 +21,7 @@ class Solution {
         prev.next=null;
         ListNode end=rev(slow);
         int max=Integer.MIN_VALUE;
-        while(head!=null || end!=null){
+        while(head!=null && end!=null){
             max=Math.max(max,head.val+end.val);
             head=head.next;
             end=end.next;
