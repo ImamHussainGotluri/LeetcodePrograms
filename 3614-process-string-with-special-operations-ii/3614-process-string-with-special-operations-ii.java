@@ -33,7 +33,7 @@ class Solution {
             }
             else{
                 if(k==len-1){
-                    return s.charAt(i);
+                    return ch;
                 }
                 len--;
             }
