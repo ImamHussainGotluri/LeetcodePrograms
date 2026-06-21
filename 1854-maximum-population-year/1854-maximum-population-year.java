@@ -13,8 +13,7 @@ class Solution {
 
         int max=0;
         int year=0;
-        max=Math.max(max,diff[0]);
-        for(int i=1;i<n+2;i++){
+        for(int i=1950;i<n+2;i++){
             diff[i]=diff[i-1]+diff[i];
             if(diff[i]>max){
                 max=diff[i];
