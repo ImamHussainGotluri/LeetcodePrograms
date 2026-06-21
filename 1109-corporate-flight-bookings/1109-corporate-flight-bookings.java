@@ -11,11 +11,9 @@ class Solution {
                 diff[r]-=seats;
             }
         }
-        int prefix[]=new int[n];
-        prefix[0]=diff[0];
         for(int i=1;i<n;i++){
-            prefix[i]=prefix[i-1]+diff[i];
+            diff[i]=diff[i-1]+diff[i];
         }
-        return prefix;
+        return diff;
     }
 }
