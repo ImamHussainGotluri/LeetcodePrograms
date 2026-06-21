@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1833-maximum-ice-cream-bars](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1840-maximum-building-height) |
+| [1854-maximum-population-year](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1854-maximum-population-year) |
 | [1861-rotating-the-box](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1861-rotating-the-box) |
 | [1914-cyclically-rotating-a-grid](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1914-cyclically-rotating-a-grid) |
 | [1991-find-the-middle-index-in-array](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1991-find-the-middle-index-in-array) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1109-corporate-flight-bookings](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1109-corporate-flight-bookings) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1732-find-the-highest-altitude) |
+| [1854-maximum-population-year](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1854-maximum-population-year) |
 | [1871-jump-game-vii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1871-jump-game-vii) |
 | [1991-find-the-middle-index-in-array](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1991-find-the-middle-index-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2574-left-and-right-sum-differences) |
@@ -354,4 +356,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1833-maximum-ice-cream-bars) |
+| [1854-maximum-population-year](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1854-maximum-population-year) |
 <!---LeetCode Topics End-->
