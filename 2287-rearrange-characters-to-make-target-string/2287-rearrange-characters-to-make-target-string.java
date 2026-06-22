@@ -6,16 +6,16 @@ class Solution {
             hm.put(ch, hm.getOrDefault(ch, 0) + 1);
         }
 
-        int arr[] = new int[26];
+        int arr2[] = new int[26];
         for (int i = 0; i < s.length(); i++) {
             int idx = s.charAt(i) - 'a';
-            arr[idx]++;
+            arr2[idx]++;
         }
 
         int min = Integer.MAX_VALUE;
         for (char ch : hm.keySet()) {
             int ind = ch - 'a';
-            min = Math.min(arr[ind] / hm.get(ch), min);
+            min = Math.min(arr2[ind] / hm.get(ch), min);
         }
         return min;
     }
