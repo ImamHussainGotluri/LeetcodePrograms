@@ -1,10 +1,5 @@
 class Solution {
     public int maxNumberOfBalloons(String text) {
-        if(text.equals("balloon")){
-            return 1;
-        }
-
-
         Map<Character, Integer> hm = new HashMap<>();
         int n = text.length();
         String s = "balloon";
