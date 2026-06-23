@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0089-gray-code) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0002-add-two-numbers) |
 | [0061-rotate-list](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0061-rotate-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -363,4 +365,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1833-maximum-ice-cream-bars) |
 | [1854-maximum-population-year](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1854-maximum-population-year) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2287-rearrange-characters-to-make-target-string) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
