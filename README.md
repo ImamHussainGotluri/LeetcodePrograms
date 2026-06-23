@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3660-jump-game-ix](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/3660-jump-game-ix) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## String Matching
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1991-find-the-middle-index-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2574-left-and-right-sum-differences) |
 | [2848-points-that-intersect-with-cars](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2848-points-that-intersect-with-cars) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Binary Search
 |  |
 | ------- |
