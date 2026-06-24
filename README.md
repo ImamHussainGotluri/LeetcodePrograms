@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0048-rotate-image) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0189-rotate-array](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0215-kth-largest-element-in-an-array) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0089-gray-code) |
+| [0189-rotate-array](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0189-rotate-array) |
 | [0343-integer-break](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0343-integer-break) |
 | [0396-rotate-function](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0396-rotate-function) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0061-rotate-list) |
+| [0189-rotate-array](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0189-rotate-array) |
 | [0881-boats-to-save-people](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0881-boats-to-save-people) |
 | [1861-rotating-the-box](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1861-rotating-the-box) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
