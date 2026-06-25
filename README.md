@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0048-rotate-image) |
+| [0075-sort-colors](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0075-sort-colors) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0189-rotate-array) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0283-move-zeroes) |
 | [0881-boats-to-save-people](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0881-boats-to-save-people) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0215-kth-largest-element-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0881-boats-to-save-people](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0881-boats-to-save-people) |
