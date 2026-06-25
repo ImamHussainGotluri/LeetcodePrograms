@@ -4,13 +4,11 @@ class Solution {
         int ans=0;
         for(int i=0;i<n;i++){
             int cnt=0;
-            int size=0;
             for(int j=i;j<n;j++){
-                size++;
                 if(nums[j]==target){
                     cnt++;
                 }
-                if(cnt>size/2){
+                if(cnt>(j-i+1)/2){
                     ans+=1;
                 }
             }
