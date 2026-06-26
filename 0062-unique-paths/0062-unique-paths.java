@@ -4,27 +4,23 @@ class Solution {
         for(int row[]:dp){
             Arrays.fill(row,-1);
         }
-        return getMazePath(1, 1, m, n,dp);
+        return getMazePath(m-1, n-1,dp);
     }
-    public static int getMazePath(int sr, int sc, int dr, int dc,int dp[][]) {
-        if(sr==dr && sc==dc){
+    public static int getMazePath(int sr, int sc,int dp[][]) {
+        if(sr==0 && sc==0){
             return 1;
         }
 
+        if(sr<0 || sc<0){
+            return 0;
+        }
+    
         if(dp[sr][sc]!=-1){
             return dp[sr][sc];
         }
 
-        int cnt=0;
-        if(sr<dr){
-            cnt+=getMazePath(sr+1,sc,dr,dc,dp);
-        }
-        
-        if(sc<dc){
-            cnt+=getMazePath(sr,sc+1,dr,dc,dp);
-        }
-
-        dp[sr][sc]=cnt;
-        return cnt;
+        int left=getMazePath(sr-1,sc,dp);
+        int right=getMazePath(sr,sc-1,dp);
+        return dp[sr][sc]=left+right;
     }
 }
