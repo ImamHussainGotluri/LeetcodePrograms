@@ -31,16 +31,16 @@ class Solution {
 
 
         for(int num:hs){
+            int cnt=0;
             if(!hs.contains(num-1)){
-                int len=0;
                 int curr=num;
                 while(hs.contains(curr)){
-                    len++;
+                    cnt++;
                     curr++;
                 }
-                ans=Math.max(ans,len);
             }
+            ans=Math.max(ans,cnt);
         }
-       return ans==0?1:ans;
+       return ans;
     }
 }
