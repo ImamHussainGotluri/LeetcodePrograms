@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0169-majority-element) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0208-implement-trie-prefix-tree) |
 | [1189-maximum-number-of-balloons](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1189-maximum-number-of-balloons) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0128-longest-consecutive-sequence) |
 | [1584-min-cost-to-connect-all-points](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1584-min-cost-to-connect-all-points) |
 ## Graph Theory
 |  |
