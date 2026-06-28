@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0073-set-matrix-zeroes) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0073-set-matrix-zeroes) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0054-spiral-matrix) |
 | [1914-cyclically-rotating-a-grid](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1914-cyclically-rotating-a-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2161-partition-array-according-to-given-pivot) |
