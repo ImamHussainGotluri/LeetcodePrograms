@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1854-maximum-population-year](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1854-maximum-population-year) |
 | [1861-rotating-the-box](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1861-rotating-the-box) |
 | [1914-cyclically-rotating-a-grid](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1914-cyclically-rotating-a-grid) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1991-find-the-middle-index-in-array](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1991-find-the-middle-index-in-array) |
 | [2126-destroying-asteroids](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0796-rotate-string) |
 | [1189-maximum-number-of-balloons](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1189-maximum-number-of-balloons) |
 | [1871-jump-game-vii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1871-jump-game-vii) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/3093-longest-common-suffix-queries) |
