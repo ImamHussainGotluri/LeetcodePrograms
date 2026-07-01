@@ -53,6 +53,9 @@ class Solution {
             if(r==n-1 && c==n-1){
                 return currSafe;
             }
+            if(currSafe<bestSafe[r][c]){
+                continue;
+            }
             for (int i = 0; i < 4; i++) {
                 int nr = r + row[i];
                 int nc = c + col[i];
