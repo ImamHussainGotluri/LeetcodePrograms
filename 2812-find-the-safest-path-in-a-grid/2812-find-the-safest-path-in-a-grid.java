@@ -29,7 +29,7 @@ class Solution {
                 int nrow = r + row[i];
                 int ncol = c + col[i];
                 if (nrow >= 0 && ncol >= 0 && nrow < n && ncol < n) {
-                    if (dist[r][c] + 1 < dist[nrow][ncol]) {
+                    if (dist[nrow][ncol]==(int) 1e9) {
                         dist[nrow][ncol] = dist[r][c] + 1;
                         q.add(new Pair(nrow, ncol));
                     }
