@@ -19,6 +19,10 @@ class Solution {
             if(r==n-1 && c==m-1 && currHealth>=1){
                 return true;
             }
+
+            if(currHealth>dist[r][c]){
+                continue;
+            }
             for(int i=0;i<4;i++){
                 int nr=r+row[i];
                 int nc=c+col[i];
