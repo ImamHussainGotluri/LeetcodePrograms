@@ -141,11 +141,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0128-longest-consecutive-sequence) |
 | [1584-min-cost-to-connect-all-points](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1584-min-cost-to-connect-all-points) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Graph Theory
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1584-min-cost-to-connect-all-points) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/3620-network-recovery-pathways) |
 ## Minimum Spanning Tree
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0226-invert-binary-tree) |
 | [1306-jump-game-iii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1345-jump-game-iv) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -373,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0226-invert-binary-tree) |
 | [1306-jump-game-iii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1306-jump-game-iii) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Design
