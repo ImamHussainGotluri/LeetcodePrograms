@@ -1,11 +1,18 @@
 class Solution {
     public int maxProfit(int[] prices) {
         int n=prices.length;
-        int dp[][]=new int[n][2];
-        for(int row[]:dp){
-            Arrays.fill(row,-1);
+        // int dp[][]=new int[n][2];
+        // for(int row[]:dp){
+        //     Arrays.fill(row,-1);
+        // }
+        // return helper(0,1,prices,n, dp);
+        int profit=0;
+        for(int i=1;i<n;i++){
+            if(prices[i]>prices[i-1]){
+                profit+=prices[i]-prices[i-1];
+            }
         }
-        return helper(0,1,prices,n, dp);
+        return profit;
     }
     public int helper(int idx,int buy,int prices[],int n,int dp[][]){
         if(n==idx){
