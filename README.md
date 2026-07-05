@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0724-find-pivot-index) |
 | [0881-boats-to-save-people](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0881-boats-to-save-people) |
 | [1109-corporate-flight-bookings](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1109-corporate-flight-bookings) |
+| [1301-number-of-paths-with-max-score](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1345-jump-game-iv) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0396-rotate-function) |
 | [0518-coin-change-ii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0518-coin-change-ii) |
 | [0788-rotated-digits](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0788-rotated-digits) |
+| [1301-number-of-paths-with-max-score](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1301-number-of-paths-with-max-score) |
 | [1340-jump-game-v](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1340-jump-game-v) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1871-jump-game-vii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1871-jump-game-vii) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0073-set-matrix-zeroes) |
+| [1301-number-of-paths-with-max-score](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1301-number-of-paths-with-max-score) |
 | [1861-rotating-the-box](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1861-rotating-the-box) |
 | [1914-cyclically-rotating-a-grid](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1914-cyclically-rotating-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2812-find-the-safest-path-in-a-grid) |
