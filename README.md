@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0788-rotated-digits) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1840-maximum-building-height) |
+| [2413-smallest-even-multiple](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2469-convert-the-temperature) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2413-smallest-even-multiple](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2413-smallest-even-multiple) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Simulation
 |  |
