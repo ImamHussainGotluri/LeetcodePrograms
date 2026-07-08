@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0189-rotate-array) |
 | [0343-integer-break](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0343-integer-break) |
 | [0396-rotate-function](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0396-rotate-function) |
+| [0412-fizz-buzz](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0412-fizz-buzz) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0788-rotated-digits](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0788-rotated-digits) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0115-distinct-subsequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0412-fizz-buzz](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0412-fizz-buzz) |
 | [0796-rotate-string](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0796-rotate-string) |
 | [1189-maximum-number-of-balloons](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0054-spiral-matrix) |
+| [0412-fizz-buzz](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0412-fizz-buzz) |
 | [1914-cyclically-rotating-a-grid](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1914-cyclically-rotating-a-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2161-partition-array-according-to-given-pivot) |
