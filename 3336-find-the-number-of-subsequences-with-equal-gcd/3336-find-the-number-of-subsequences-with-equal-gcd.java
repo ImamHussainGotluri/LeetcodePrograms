@@ -9,7 +9,7 @@ class Solution {
             max = Math.max(max, num);
         }
 
-        int dp[][][] = new int[n + 1][max + 1][max + 1];
+        int dp[][][] = new int[n + 1][201][201];
 
         for (int rows[][] : dp) {
             for (int row[] : rows) {
