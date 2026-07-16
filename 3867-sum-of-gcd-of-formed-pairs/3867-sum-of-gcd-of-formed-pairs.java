@@ -1,13 +1,11 @@
 class Solution {
     public long gcdSum(int[] nums) {
-        long maxi=0;
-        long minGcd=Long.MAX_VALUE;
-        long maxGcd=Long.MIN_VALUE;
+        int maxi=0;
         int n=nums.length;
-        long prefix[]=new long[n];
+        int prefix[]=new int[n];
         for(int i=0;i<nums.length;i++){
             maxi=Math.max(maxi,nums[i]);
-            long currGcd=gcd(nums[i],maxi);
+            int currGcd=gcd(nums[i],maxi);
             prefix[i]=currGcd;
         }
         Arrays.sort(prefix);
@@ -19,12 +17,11 @@ class Solution {
             l++;
             r--;
         }
-        return sum;
-        
+        return sum; 
     }
-    public long gcd(long a,long b){
+    public int gcd(int a,int b){
         while(b!=0){
-            long t=a%b;
+            int t=a%b;
             a=b;
             b=t;
         }
