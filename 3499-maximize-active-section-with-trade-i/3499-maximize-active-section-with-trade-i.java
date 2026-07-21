@@ -6,11 +6,12 @@ class Solution {
         int n=s.length();
         while(j<n){
             if(s.charAt(j)=='0'){
-                int start=j;
+                int cnt=0;
                 while(j<n && s.charAt(j)=='0'){
                     j++;
+                    cnt++;
                 }
-                res.add(j-start);
+                res.add(cnt);
             }
             else{
                 j++;
