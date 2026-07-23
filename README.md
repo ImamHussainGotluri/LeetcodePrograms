@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-convert-the-temperature](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2469-convert-the-temperature) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0089-gray-code](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0089-gray-code) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Union-Find
