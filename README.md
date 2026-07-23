@@ -450,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0226-invert-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0417-pacific-atlantic-water-flow) |
+| [0938-range-sum-of-bst](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0938-range-sum-of-bst) |
 | [1306-jump-game-iii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1306-jump-game-iii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2685-count-the-number-of-complete-components) |
@@ -520,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0226-invert-binary-tree) |
+| [0938-range-sum-of-bst](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0938-range-sum-of-bst) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -527,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0226-invert-binary-tree) |
+| [0938-range-sum-of-bst](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0938-range-sum-of-bst) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Stack
 |  |
@@ -573,4 +576,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0938-range-sum-of-bst](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
