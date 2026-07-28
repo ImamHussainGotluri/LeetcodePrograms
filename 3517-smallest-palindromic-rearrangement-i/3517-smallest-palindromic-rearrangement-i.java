@@ -26,13 +26,12 @@ class Solution {
 
         }
 
-        String sec= new StringBuilder(sb1).reverse().toString();
 
-        if (s.length() % 2 != 0) {
+        StringBuilder sb2 = new StringBuilder(sb1).reverse();
+
+         if (s.length() % 2 != 0) {
             sb1.append(mid);
         }
-
-        sb1.append(sec);
-        return sb1.toString();
+        return sb1.toString() + sb2.toString();
     }
 }
