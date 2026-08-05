@@ -15,25 +15,22 @@ class Solution {
         boolean vis[] = new boolean[n];
         dfs(k, vis, res);
 
+        for (int edge[] : invocations) {
+            int u = edge[0];
+            int v = edge[1];
 
-        
-
-        for(int edge[]:invocations){
-            int u=edge[0];
-            int v=edge[1];
-
-            if(!vis[u] && vis[v]){
-                List<Integer> allres=new ArrayList<>();
-               for(int i=0;i<n;i++){
-                allres.add(i);
-               }
-               return allres;
+            if (!vis[u] && vis[v]) {
+                List<Integer> allres = new ArrayList<>();
+                for (int i = 0; i < n; i++) {
+                    allres.add(i);
+                }
+                return allres;
             }
         }
 
         List<Integer> ans = new ArrayList<>();
-        for(int i=0;i<n;i++){
-            if(!vis[i]){
+        for (int i = 0; i < n; i++) {
+            if (!vis[i]) {
                 ans.add(i);
             }
         }
