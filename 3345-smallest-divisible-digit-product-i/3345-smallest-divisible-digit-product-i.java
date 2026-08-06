@@ -1,17 +1,17 @@
 class Solution {
     public int smallestNumber(int n, int t) {
-        int currnum=n;
-
-        int prod=1;
-        while(n>0){
-            int d=n%10;
-            prod=prod*d;
-            n/=10;
+        for (int i = n; i <= 100; i++) {
+           int currnum=i;
+           int prod=1;
+           while(currnum>0){
+            int d=currnum%10;
+            prod*=d;
+            currnum/=10;
+           }
+           if(prod%t==0){
+            return i;
+           }
         }
-        if(prod%t==0){
-            return currnum;
-        }
-        return smallestNumber(currnum+1,t);
+        return -1;
     }
-
 }
