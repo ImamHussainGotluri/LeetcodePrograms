@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0316-remove-duplicate-letters](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0316-remove-duplicate-letters) |
+| [0392-is-subsequence](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0412-fizz-buzz) |
 | [0796-rotate-string](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0796-rotate-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0300-longest-increasing-subsequence) |
 | [0343-integer-break](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0343-integer-break) |
+| [0392-is-subsequence](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0518-coin-change-ii) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0392-is-subsequence) |
 | [0881-boats-to-save-people](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0881-boats-to-save-people) |
 | [1861-rotating-the-box](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1861-rotating-the-box) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
