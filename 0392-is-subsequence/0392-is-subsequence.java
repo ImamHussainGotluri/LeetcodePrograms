@@ -14,11 +14,8 @@ class Solution {
             char ch2=t.charAt(j);
             if(ch1==ch2){
                 i++;
-                j++;
             }
-            else{
-                j++;
-            }
+            j++;
         }
         return i==n;
     }
