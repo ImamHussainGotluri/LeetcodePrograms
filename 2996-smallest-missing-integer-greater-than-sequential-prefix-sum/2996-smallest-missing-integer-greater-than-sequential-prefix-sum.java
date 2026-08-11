@@ -17,11 +17,9 @@ class Solution {
             }
         }
 
-        for(int i=seq;i<=10000;i++){
-            if(!hs.contains(i)){
-                return i;
-            }
+        while(hs.contains(seq)){
+            seq++;
         }
-        return 0;
+        return seq;
     }
 }
