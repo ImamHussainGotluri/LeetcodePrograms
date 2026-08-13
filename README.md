@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1991-find-the-middle-index-in-array) |
+| [2050-parallel-courses-iii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2050-parallel-courses-iii) |
 | [2126-destroying-asteroids](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1584-min-cost-to-connect-all-points) |
+| [2050-parallel-courses-iii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2050-parallel-courses-iii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1406-stone-game-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1871-jump-game-vii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1871-jump-game-vii) |
+| [2050-parallel-courses-iii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2050-parallel-courses-iii) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -651,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [2050-parallel-courses-iii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2050-parallel-courses-iii) |
 | [3620-network-recovery-pathways](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/3620-network-recovery-pathways) |
 ## Monotonic Stack
 |  |
@@ -681,4 +685,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1406-stone-game-iii) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [2050-parallel-courses-iii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2050-parallel-courses-iii) |
 <!---LeetCode Topics End-->
