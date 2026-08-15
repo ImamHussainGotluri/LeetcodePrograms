@@ -31,6 +31,10 @@ class Solution {
                 sum=val;
                 noDays++;
             }
+
+            if(noDays>days){
+                return false;
+            }
         }
         if(sum<=cap){
             noDays++;
