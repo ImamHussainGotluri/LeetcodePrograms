@@ -2,7 +2,6 @@ class Solution {
     public static boolean ispossible(int nums[], int k, int ans) {
 
         int sum = 0;
-        k--;
 
         for (int i = 0; i < nums.length; i++) {
             if (nums[i] > ans) {
@@ -13,9 +12,13 @@ class Solution {
                 sum = nums[i];
                 k--;
             }
-            if (k < 0) {
-                return false;
-            }
+            
+        }
+        if(sum>0){
+            k--;
+        }
+        if (k < 0) {
+            return false;
         }
         return true;
     }
