@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1345-jump-game-iv) |
 | [1406-stone-game-iii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1558-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1558-minimum-numbers-of-function-calls-to-make-target-array) |
 | [1584-min-cost-to-connect-all-points](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1584-min-cost-to-connect-all-points) |
@@ -520,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0875-koko-eating-bananas) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2540-minimum-common-value](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3161-block-placement-queries](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/3161-block-placement-queries) |
