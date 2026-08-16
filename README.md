@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1991-find-the-middle-index-in-array) |
+| [2029-stone-game-ix](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2029-stone-game-ix) |
 | [2050-parallel-courses-iii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2050-parallel-courses-iii) |
 | [2126-destroying-asteroids](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1406-stone-game-iii) |
 | [1840-maximum-building-height](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2029-stone-game-ix) |
 | [2413-smallest-even-multiple](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2469-convert-the-temperature) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -461,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1833-maximum-ice-cream-bars](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2029-stone-game-ix](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2029-stone-game-ix) |
 | [2126-destroying-asteroids](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -670,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1833-maximum-ice-cream-bars) |
 | [1854-maximum-population-year](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1854-maximum-population-year) |
+| [2029-stone-game-ix](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2029-stone-game-ix) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/3312-sorted-gcd-pair-queries) |
@@ -719,18 +723,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2029-stone-game-ix) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -743,4 +750,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0124-binary-tree-maximum-path-sum) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
