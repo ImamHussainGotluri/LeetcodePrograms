@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0881-boats-to-save-people) |
+| [0930-binary-subarrays-with-sum](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0930-binary-subarrays-with-sum) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1109-corporate-flight-bookings](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1109-corporate-flight-bookings) |
 | [1140-stone-game-ii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1140-stone-game-ii) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0229-majority-element-ii) |
+| [0930-binary-subarrays-with-sum](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0930-binary-subarrays-with-sum) |
 | [1189-maximum-number-of-balloons](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1189-maximum-number-of-balloons) |
 | [1345-jump-game-iv](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -508,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0410-split-array-largest-sum) |
 | [0724-find-pivot-index](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0724-find-pivot-index) |
+| [0930-binary-subarrays-with-sum](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0930-binary-subarrays-with-sum) |
 | [1109-corporate-flight-bookings](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1109-corporate-flight-bookings) |
 | [1140-stone-game-ii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1140-stone-game-ii) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -585,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0930-binary-subarrays-with-sum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1871-jump-game-vii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1871-jump-game-vii) |
