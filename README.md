@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0089-gray-code) |
+| [0222-count-complete-tree-nodes](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0222-count-complete-tree-nodes) |
 | [1310-xor-queries-of-a-subarray](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1310-xor-queries-of-a-subarray) |
 | [1558-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1558-minimum-numbers-of-function-calls-to-make-target-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -563,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0540-single-element-in-a-sorted-array) |
@@ -678,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0437-path-sum-iii) |
@@ -693,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0437-path-sum-iii) |
