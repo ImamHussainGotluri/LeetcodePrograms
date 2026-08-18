@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0518-coin-change-ii) |
+| [0525-contiguous-array](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0628-maximum-product-of-three-numbers) |
 | [0654-maximum-binary-tree](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0654-maximum-binary-tree) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0229-majority-element-ii) |
+| [0525-contiguous-array](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0525-contiguous-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1189-maximum-number-of-balloons) |
@@ -515,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0410-split-array-largest-sum) |
+| [0525-contiguous-array](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0974-subarray-sums-divisible-by-k) |
