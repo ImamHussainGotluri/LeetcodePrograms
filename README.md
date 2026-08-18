@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1289-minimum-falling-path-sum-ii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1306-jump-game-iii) |
+| [1310-xor-queries-of-a-subarray](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1310-xor-queries-of-a-subarray) |
 | [1340-jump-game-v](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1345-jump-game-iv) |
 | [1406-stone-game-iii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1406-stone-game-iii) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0089-gray-code) |
+| [1310-xor-queries-of-a-subarray](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1310-xor-queries-of-a-subarray) |
 | [1558-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1558-minimum-numbers-of-function-calls-to-make-target-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -534,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1109-corporate-flight-bookings](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1109-corporate-flight-bookings) |
 | [1140-stone-game-ii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1248-count-number-of-nice-subarrays) |
+| [1310-xor-queries-of-a-subarray](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1310-xor-queries-of-a-subarray) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1590-make-sum-divisible-by-p](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1590-make-sum-divisible-by-p) |
