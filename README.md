@@ -589,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0417-pacific-atlantic-water-flow) |
 | [0437-path-sum-iii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0437-path-sum-iii) |
 | [0938-range-sum-of-bst](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0938-range-sum-of-bst) |
@@ -676,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0437-path-sum-iii) |
 | [0654-maximum-binary-tree](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0654-maximum-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0938-range-sum-of-bst) |
@@ -689,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0437-path-sum-iii) |
 | [0654-maximum-binary-tree](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0654-maximum-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0938-range-sum-of-bst) |
@@ -790,4 +793,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2029-stone-game-ix) |
+## Binary Lifting
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
