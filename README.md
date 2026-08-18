@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1558-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1558-minimum-numbers-of-function-calls-to-make-target-array) |
 | [1563-stone-game-v](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1563-stone-game-v) |
 | [1584-min-cost-to-connect-all-points](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1584-min-cost-to-connect-all-points) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1732-find-the-highest-altitude) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1248-count-number-of-nice-subarrays) |
 | [1345-jump-game-iv](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2287-rearrange-characters-to-make-target-string) |
@@ -532,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1248-count-number-of-nice-subarrays) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1732-find-the-highest-altitude) |
 | [1854-maximum-population-year](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1854-maximum-population-year) |
@@ -561,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1539-kth-missing-positive-number) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2540-minimum-common-value](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3161-block-placement-queries](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/3161-block-placement-queries) |
@@ -611,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1871-jump-game-vii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1871-jump-game-vii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
