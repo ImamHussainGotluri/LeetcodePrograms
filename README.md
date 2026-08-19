@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0207-course-schedule) |
 | [1584-min-cost-to-connect-all-points](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1584-min-cost-to-connect-all-points) |
 | [2050-parallel-courses-iii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2050-parallel-courses-iii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0112-path-sum) |
+| [0207-course-schedule](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0226-invert-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0417-pacific-atlantic-water-flow) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0662-maximum-width-of-binary-tree) |
@@ -596,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0207-course-schedule](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0207-course-schedule) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -762,6 +765,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0207-course-schedule) |
 | [2050-parallel-courses-iii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2050-parallel-courses-iii) |
 | [3620-network-recovery-pathways](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/3620-network-recovery-pathways) |
 ## Monotonic Stack
@@ -800,6 +804,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Directed Acyclic Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0207-course-schedule) |
 | [2050-parallel-courses-iii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2050-parallel-courses-iii) |
 ## Ordered Set
 |  |
