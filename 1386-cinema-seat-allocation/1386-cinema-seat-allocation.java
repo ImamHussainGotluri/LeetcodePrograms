@@ -22,61 +22,61 @@ class Solution {
                 continue;
             }
 
-            boolean batch1= !vis[2] && !vis[3] && !vis[4] && !vis[5];
-            boolean batch2= !vis[4] && !vis[5] && !vis[6] && !vis[7];
-            boolean batch3= !vis[6] && !vis[7] && !vis[8] && !vis[9];
+            // boolean batch1= !vis[2] && !vis[3] && !vis[4] && !vis[5];
+            // boolean batch2= !vis[4] && !vis[5] && !vis[6] && !vis[7];
+            // boolean batch3= !vis[6] && !vis[7] && !vis[8] && !vis[9];
 
-            if(batch1 && batch3){
-                cnt+=2;
+            // if(batch1 && batch3){
+            //     cnt+=2;
+            // }
+            // else if(batch1 || batch2 || batch3){
+            //     cnt++;
+            // }
+
+            boolean flag = true;
+            for (int i = 2; i <= 5; i++) {
+                if (vis[i]) {
+                    flag = false;
+                    break;
+                }
             }
-            else if(batch1 || batch2 || batch3){
+            if (flag) {
                 cnt++;
+                helper(vis, 2, 5);
             }
 
-            // boolean flag = true;
-            // for (int i = 2; i <= 5; i++) {
-            //     if (vis[i]) {
-            //         flag = false;
-            //         break;
-            //     }
-            // }
-            // if (flag) {
-            //     cnt++;
-            //     helper(vis, 2, 5);
-            // }
+            flag = true;
+            for (int i = 4; i <= 7; i++) {
+                if (vis[i]) {
+                    flag = false;
+                    break;
+                }
+            }
+            if (flag) {
+                cnt++;
+                helper(vis, 4, 7);
+            }
 
-            // flag = true;
-            // for (int i = 4; i <= 7; i++) {
-            //     if (vis[i]) {
-            //         flag = false;
-            //         break;
-            //     }
-            // }
-            // if (flag) {
-            //     cnt++;
-            //     helper(vis, 4, 7);
-            // }
+            flag = true;
+            for (int i = 6; i <= 9; i++) {
+                if (vis[i]) {
+                    flag = false;
+                    break;
+                }
+            }
 
-            // flag = true;
-            // for (int i = 6; i <= 9; i++) {
-            //     if (vis[i]) {
-            //         flag = false;
-            //         break;
-            //     }
-            // }
-
-            // if (flag) {
-            //     cnt++;
-            //     helper(vis, 6, 9);
-            // }
+            if (flag) {
+                cnt++;
+                helper(vis, 6, 9);
+            }
         }
 
         return cnt;
     }
 
-    // public void helper(boolean vis[], int i, int j) {
-    //     for (int k = i; k <= j; k++) {
-    //         vis[k] = true;
-    //     }
-    // }
+    public void helper(boolean vis[], int i, int j) {
+        for (int k = i; k <= j; k++) {
+            vis[k] = true;
+        }
+    }
 }
