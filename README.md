@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3093-longest-common-suffix-queries](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/3093-longest-common-suffix-queries) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3161-block-placement-queries](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/3161-block-placement-queries) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/3312-sorted-gcd-pair-queries) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2469-convert-the-temperature) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1386-cinema-seat-allocation) |
 | [1558-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1558-minimum-numbers-of-function-calls-to-make-target-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -422,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2413-smallest-even-multiple) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -590,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2540-minimum-common-value](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3161-block-placement-queries](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/3161-block-placement-queries) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -761,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0062-unique-paths) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Shortest Path
