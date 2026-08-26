@@ -12,4 +12,5 @@ group by st.student_id,
         st.student_name,
         sb.subject_name
 order by 
-        st.student_id ASC;       
+        st.student_id ASC,
+        sb.subject_name ASC;  
