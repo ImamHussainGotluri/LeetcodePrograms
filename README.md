@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0451-sort-characters-by-frequency) |
 | [0525-contiguous-array](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0525-contiguous-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0316-remove-duplicate-letters) |
 | [0392-is-subsequence](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0412-fizz-buzz) |
+| [0451-sort-characters-by-frequency](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0796-rotate-string) |
 | [0917-reverse-only-letters](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0917-reverse-only-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -540,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0451-sort-characters-by-frequency) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0881-boats-to-save-people) |
@@ -695,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0215-kth-largest-element-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0451-sort-characters-by-frequency) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -760,6 +764,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0451-sort-characters-by-frequency) |
 | [1189-maximum-number-of-balloons](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1833-maximum-ice-cream-bars) |
 | [1854-maximum-population-year](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1854-maximum-population-year) |
@@ -859,4 +864,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
