@@ -1,21 +1,29 @@
 class Solution {
     public boolean check(int[] nums) {
-       int arr[]=new int[nums.length];
-    for(int i=0;i<nums.length;i++){
-        arr[i]=nums[i];
-    }
-    Arrays.sort(arr);
-    int k=0;
-    for(int i=0;i<nums.length-1;i++){
-        if(nums[i]>nums[i+1]){
-            k=i+1;
+        int n=nums.length;
+
+        int k=-1;
+        for(int i=0;i<n-1;i++){
+            if(nums[i]>nums[i+1]){
+                k=i;
+                break;
+            }
         }
-    }
-    for(int i=0;i<nums.length-1;i++){
-        if(arr[i]!=nums[(i+k)%nums.length]){
+
+        if(k==-1){
+            return true;
+        }
+
+        for(int i=k+1;i<n-1;i++){
+            if(nums[i]>nums[i+1]){
+                return false;
+            }
+        }
+
+        if(nums[n-1]>nums[0]){
             return false;
         }
-    }
-    return true;
+
+        return true;
     }
 }
