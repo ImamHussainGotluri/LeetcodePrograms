@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1590-make-sum-divisible-by-p) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2540-minimum-common-value](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2540-minimum-common-value) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1768-merge-strings-alternately) |
 | [1871-jump-game-vii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1871-jump-game-vii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
@@ -762,6 +764,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1833-maximum-ice-cream-bars) |
 | [1854-maximum-population-year](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1854-maximum-population-year) |
 | [2029-stone-game-ix](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2029-stone-game-ix) |
+| [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
