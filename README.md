@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2574-left-and-right-sum-differences) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2784-check-if-array-is-good](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2784-check-if-array-is-good) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2825-make-string-a-subsequence-using-cyclic-increments) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -756,6 +758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1854-maximum-population-year](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1854-maximum-population-year) |
 | [2029-stone-game-ix](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2029-stone-game-ix) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/3312-sorted-gcd-pair-queries) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/3517-smallest-palindromic-rearrangement-i) |
