@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0229-majority-element-ii) |
+| [0389-find-the-difference](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0451-sort-characters-by-frequency) |
 | [0525-contiguous-array](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0525-contiguous-array) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0089-gray-code](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0089-gray-code) |
 | [0222-count-complete-tree-nodes](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0222-count-complete-tree-nodes) |
+| [0389-find-the-difference](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0389-find-the-difference) |
 | [1310-xor-queries-of-a-subarray](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1310-xor-queries-of-a-subarray) |
 | [1386-cinema-seat-allocation](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1386-cinema-seat-allocation) |
 | [1558-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1558-minimum-numbers-of-function-calls-to-make-target-array) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0316-remove-duplicate-letters](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0316-remove-duplicate-letters) |
+| [0389-find-the-difference](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0412-fizz-buzz) |
@@ -550,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0229-majority-element-ii) |
+| [0389-find-the-difference](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0451-sort-characters-by-frequency) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0628-maximum-product-of-three-numbers) |
