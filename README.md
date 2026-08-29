@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0343-integer-break) |
 | [0396-rotate-function](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0396-rotate-function) |
 | [0412-fizz-buzz](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0415-add-strings) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0628-maximum-product-of-three-numbers) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0316-remove-duplicate-letters) |
 | [0392-is-subsequence](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0796-rotate-string) |
 | [0917-reverse-only-letters](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0917-reverse-only-letters) |
@@ -455,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0415-add-strings) |
 | [1260-shift-2d-grid](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1260-shift-2d-grid) |
 | [1914-cyclically-rotating-a-grid](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1914-cyclically-rotating-a-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2149-rearrange-array-elements-by-sign) |
