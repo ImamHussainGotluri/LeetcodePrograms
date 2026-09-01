@@ -2,8 +2,8 @@
 select product_name,
        sum(o.unit) as unit
 from Products pr
-left join Orders o
+join Orders o
 on pr.product_id=o.product_id
-where order_date LIKE '2020-02-%'
+where MONTH(order_date)=2 AND YEAR(order_date)=2020  
 group by o.product_id
 Having sum(o.unit)>=100;
