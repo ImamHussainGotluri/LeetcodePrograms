@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0022-generate-parentheses) |
 | [0089-gray-code](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0089-gray-code) |
 | [0113-path-sum-ii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0113-path-sum-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0008-string-to-integer-atoi) |
+| [0022-generate-parentheses](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0115-distinct-subsequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0064-minimum-path-sum) |
@@ -924,4 +927,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0918-maximum-sum-circular-subarray) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
