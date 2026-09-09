@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0113-path-sum-ii) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0131-palindrome-partitioning) |
 | [0208-implement-trie-prefix-tree](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0208-implement-trie-prefix-tree) |
@@ -423,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0079-word-search) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0417-pacific-atlantic-water-flow) |
 | [1260-shift-2d-grid](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1260-shift-2d-grid) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1289-minimum-falling-path-sum-ii) |
@@ -685,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0079-word-search) |
 | [0112-path-sum](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0124-binary-tree-maximum-path-sum) |
