@@ -5,7 +5,7 @@ class Solution {
     }
     List<String> res=new ArrayList<>();
     public void helper(int n,String s,int open,int close){
-        if(2*n==open+close){
+        if(2*n==s.length()){
             res.add(s);
             return;
         }
