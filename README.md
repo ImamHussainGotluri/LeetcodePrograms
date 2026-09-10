@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0139-word-break) |
 | [0142-linked-list-cycle-ii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0229-majority-element-ii) |
 | [0290-word-pattern](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0290-word-pattern) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0139-word-break) |
+| [0205-isomorphic-strings](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0290-word-pattern](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0290-word-pattern) |
