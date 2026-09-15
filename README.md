@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2784-check-if-array-is-good](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2784-check-if-array-is-good) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2845-count-of-interesting-subarrays](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2845-count-of-interesting-subarrays) |
 | [2848-points-that-intersect-with-cars](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2848-points-that-intersect-with-cars) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2784-check-if-array-is-good) |
+| [2845-count-of-interesting-subarrays](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2845-count-of-interesting-subarrays) |
 | [2848-points-that-intersect-with-cars](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2848-points-that-intersect-with-cars) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -660,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1871-jump-game-vii) |
 | [1991-find-the-middle-index-in-array](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1991-find-the-middle-index-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2574-left-and-right-sum-differences) |
+| [2845-count-of-interesting-subarrays](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2845-count-of-interesting-subarrays) |
 | [2848-points-that-intersect-with-cars](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2848-points-that-intersect-with-cars) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/3312-sorted-gcd-pair-queries) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/3699-number-of-zigzag-arrays-i) |
