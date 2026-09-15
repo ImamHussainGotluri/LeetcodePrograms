@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1539-kth-missing-positive-number](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1539-kth-missing-positive-number) |
 | [1558-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1558-minimum-numbers-of-function-calls-to-make-target-array) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1386-cinema-seat-allocation) |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1590-make-sum-divisible-by-p) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -842,6 +844,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0451-sort-characters-by-frequency) |
 | [1189-maximum-number-of-balloons](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1189-maximum-number-of-balloons) |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1833-maximum-ice-cream-bars](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1833-maximum-ice-cream-bars) |
 | [1854-maximum-population-year](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1854-maximum-population-year) |
 | [2029-stone-game-ix](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2029-stone-game-ix) |
