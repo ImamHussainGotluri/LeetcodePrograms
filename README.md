@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2574-left-and-right-sum-differences) |
+| [2575-find-the-divisibility-array-of-a-string](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2029-stone-game-ix) |
 | [2413-smallest-even-multiple](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2469-convert-the-temperature) |
+| [2575-find-the-divisibility-array-of-a-string](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/3312-sorted-gcd-pair-queries) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [2575-find-the-divisibility-array-of-a-string](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2825-make-string-a-subsequence-using-cyclic-increments) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
