@@ -3,8 +3,8 @@ class Solution {
         int n=nums.length;
 
         int total=0;
-        for(int num:nums){
-            total+=num;
+        for(int val:nums){
+            total+=val;
         }
 
         if(total-x==0){
@@ -13,24 +13,25 @@ class Solution {
 
         Map<Integer,Integer> hm=new HashMap<>();
         hm.put(0,-1);
-
-        int ans=-1;
         int sum=0;
-        int tar=total-x;
+        int k=total-x;
+        int ans=-1;
         for(int i=0;i<n;i++){
             sum+=nums[i];
 
-            if(hm.containsKey(sum-tar)){
-                ans=Math.max(ans,i-hm.get(sum-tar));
+            if(hm.containsKey(sum-k)){
+                ans=Math.max(ans,i-hm.get(sum-k));
             }
-            
+
             if(!hm.containsKey(sum)){
                 hm.put(sum,i);
             }
         }
+
         if(ans==-1){
-            return ans;
+            return -1;
         }
+
         return n-ans;
     }
 }
