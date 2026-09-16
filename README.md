@@ -341,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0316-remove-duplicate-letters) |
 | [0389-find-the-difference](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0392-is-subsequence) |
+| [0402-remove-k-digits](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0415-add-strings) |
@@ -590,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0316-remove-duplicate-letters](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0410-split-array-largest-sum) |
 | [0881-boats-to-save-people](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0881-boats-to-save-people) |
@@ -844,6 +846,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0503-next-greater-element-ii) |
 | [0654-maximum-binary-tree](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0654-maximum-binary-tree) |
 | [0735-asteroid-collision](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0735-asteroid-collision) |
@@ -904,6 +907,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0503-next-greater-element-ii) |
 | [0654-maximum-binary-tree](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0739-daily-temperatures) |
