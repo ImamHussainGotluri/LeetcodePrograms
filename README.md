@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0085-maximal-rectangle](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0070-climbing-stairs) |
+| [0085-maximal-rectangle](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0120-triangle) |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0085-maximal-rectangle) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0417-pacific-atlantic-water-flow) |
 | [1260-shift-2d-grid](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1260-shift-2d-grid) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1289-minimum-falling-path-sum-ii) |
@@ -845,6 +848,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0503-next-greater-element-ii) |
@@ -906,6 +910,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0503-next-greater-element-ii) |
