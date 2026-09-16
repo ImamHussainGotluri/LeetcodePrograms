@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0654-maximum-binary-tree) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0724-find-pivot-index](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0881-boats-to-save-people) |
@@ -843,6 +844,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0316-remove-duplicate-letters) |
 | [0503-next-greater-element-ii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0503-next-greater-element-ii) |
 | [0654-maximum-binary-tree](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0654-maximum-binary-tree) |
+| [0739-daily-temperatures](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Counting Sort
@@ -901,6 +903,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0316-remove-duplicate-letters) |
 | [0503-next-greater-element-ii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0503-next-greater-element-ii) |
 | [0654-maximum-binary-tree](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0654-maximum-binary-tree) |
+| [0739-daily-temperatures](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Binary Search Tree
 |  |
