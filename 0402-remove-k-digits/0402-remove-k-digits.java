@@ -29,6 +29,10 @@ class Solution {
             sb.append(st.pop());
         }
 
+        while(sb.length()>0 && sb.charAt(sb.length()-1)=='0'){
+            sb.deleteCharAt(sb.length()-1);
+        }
+
         String res=sb.reverse().toString();
 
         return res.isEmpty()?"0":res;
