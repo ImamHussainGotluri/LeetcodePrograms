@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0417-pacific-atlantic-water-flow) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0486-predict-the-winner) |
+| [0503-next-greater-element-ii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0518-coin-change-ii) |
 | [0525-contiguous-array](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0540-single-element-in-a-sorted-array) |
@@ -840,6 +841,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0316-remove-duplicate-letters) |
+| [0503-next-greater-element-ii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0503-next-greater-element-ii) |
 | [0654-maximum-binary-tree](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0654-maximum-binary-tree) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -897,6 +899,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0316-remove-duplicate-letters) |
+| [0503-next-greater-element-ii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0503-next-greater-element-ii) |
 | [0654-maximum-binary-tree](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0654-maximum-binary-tree) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Binary Search Tree
