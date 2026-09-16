@@ -31,6 +31,6 @@ class Solution {
 
         String res=sb.reverse().toString();
 
-        return res.replaceFirst("0","").isEmpty()?"0":res;
+        return res.isEmpty()?"0":res;
     }
 }
