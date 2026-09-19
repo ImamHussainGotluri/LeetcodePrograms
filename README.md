@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0300-longest-increasing-subsequence) |
+| [0347-top-k-frequent-elements](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0347-top-k-frequent-elements) |
 | [0396-rotate-function](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0410-split-array-largest-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0417-pacific-atlantic-water-flow) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0229-majority-element-ii) |
 | [0290-word-pattern](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0290-word-pattern) |
+| [0347-top-k-frequent-elements](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0451-sort-characters-by-frequency) |
@@ -633,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0451-sort-characters-by-frequency) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -794,6 +797,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0347-top-k-frequent-elements) |
 | [0654-maximum-binary-tree](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0654-maximum-binary-tree) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0918-maximum-sum-circular-subarray) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -803,6 +807,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0451-sort-characters-by-frequency) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -814,6 +819,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0347-top-k-frequent-elements) |
 ## Enumeration
 |  |
 | ------- |
@@ -878,6 +884,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0451-sort-characters-by-frequency) |
 | [1189-maximum-number-of-balloons](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1189-maximum-number-of-balloons) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
@@ -991,6 +998,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0451-sort-characters-by-frequency) |
 ## Floyd's Cycle Finding Algorithm
 |  |
