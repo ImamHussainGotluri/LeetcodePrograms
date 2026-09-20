@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0739-daily-temperatures) |
 | [0846-hand-of-straights](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0846-hand-of-straights) |
+| [0860-lemonade-change](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0881-boats-to-save-people) |
@@ -606,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0410-split-array-largest-sum) |
 | [0846-hand-of-straights](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0846-hand-of-straights) |
+| [0860-lemonade-change](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0881-boats-to-save-people) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1386-cinema-seat-allocation) |
