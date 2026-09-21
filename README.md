@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0410-split-array-largest-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0417-pacific-atlantic-water-flow) |
+| [0435-non-overlapping-intervals](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0435-non-overlapping-intervals) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0486-predict-the-winner) |
 | [0503-next-greater-element-ii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0503-next-greater-element-ii) |
@@ -411,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0518-coin-change-ii) |
@@ -606,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0435-non-overlapping-intervals) |
 | [0846-hand-of-straights](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0881-boats-to-save-people) |
@@ -639,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0389-find-the-difference) |
+| [0435-non-overlapping-intervals](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0451-sort-characters-by-frequency) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0628-maximum-product-of-three-numbers) |
