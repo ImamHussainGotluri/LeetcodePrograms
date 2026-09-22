@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1020-number-of-enclaves](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1020-number-of-enclaves) |
 | [1109-corporate-flight-bookings](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1109-corporate-flight-bookings) |
 | [1140-stone-game-ii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1248-count-number-of-nice-subarrays) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0128-longest-consecutive-sequence) |
 | [0547-number-of-provinces](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1020-number-of-enclaves) |
 | [1584-min-cost-to-connect-all-points](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1584-min-cost-to-connect-all-points) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2685-count-the-number-of-complete-components) |
@@ -463,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0085-maximal-rectangle) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0417-pacific-atlantic-water-flow) |
 | [0733-flood-fill](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1020-number-of-enclaves) |
 | [1260-shift-2d-grid](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1260-shift-2d-grid) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1301-number-of-paths-with-max-score) |
@@ -526,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1020-number-of-enclaves) |
 | [1306-jump-game-iii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1345-jump-game-iv) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -755,6 +759,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0733-flood-fill) |
 | [0938-range-sum-of-bst](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0938-range-sum-of-bst) |
+| [1020-number-of-enclaves](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1020-number-of-enclaves) |
 | [1306-jump-game-iii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1306-jump-game-iii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/2685-count-the-number-of-complete-components) |
