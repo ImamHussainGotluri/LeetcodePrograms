@@ -24,13 +24,13 @@ class Solution {
             int r=q.peek().row;
             int c=q.peek().col;
             int val=q.peek().val;
-            dist[r][c]=val;
             q.poll();
 
             for(int i=0;i<4;i++){
                 int row=r+drow[i];
                 int col=c+dcol[i];
                 if(row>=0 && col>=0 && row<n && col<m && mat[row][col]==-1){
+                    dist[row][col]=val+1;
                     q.add(new Pair(row,col,val+1));
                     mat[row][col]=1;
                 }
