@@ -3,18 +3,16 @@ class Solution {
         int n=mat.length;
         int m=mat[0].length;
 
-        boolean vis[][]=new boolean[n][m];
-
         int dist[][]=new int[n][m];
 
         Queue<Pair> q=new LinkedList<>();
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
                 if(mat[i][j]==0){
-                    vis[i][j]=true;
                     q.add(new Pair(i,j,0));
                 }
                 else{
+                    mat[i][j]=-1;
                 }
             }
         }
@@ -32,9 +30,9 @@ class Solution {
             for(int i=0;i<4;i++){
                 int row=r+drow[i];
                 int col=c+dcol[i];
-                if(row>=0 && col>=0 && row<n && col<m && mat[row][col]==1 && !vis[row][col]){
-                    vis[row][col]=true;
+                if(row>=0 && col>=0 && row<n && col<m && mat[row][col]==-1){
                     q.add(new Pair(row,col,val+1));
+                    mat[row][col]=1;
                 }
             }
         }
