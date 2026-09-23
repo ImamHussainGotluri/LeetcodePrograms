@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0518-coin-change-ii) |
 | [0525-contiguous-array](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0628-maximum-product-of-three-numbers) |
 | [0654-maximum-binary-tree](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0654-maximum-binary-tree) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -426,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0542-01-matrix) |
 | [0788-rotated-digits](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0918-maximum-sum-circular-subarray) |
@@ -465,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0085-maximal-rectangle) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0417-pacific-atlantic-water-flow) |
+| [0542-01-matrix](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/1020-number-of-enclaves) |
@@ -528,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0226-invert-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0417-pacific-atlantic-water-flow) |
+| [0542-01-matrix](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/ImamHussainGotluri/LeetcodePrograms/tree/master/0733-flood-fill) |
